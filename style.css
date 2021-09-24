@@ -1,0 +1,16 @@
+.controller {
+  margin: auto;
+  width: 400px;
+}
+
+table {
+  background-color: #0d805e;
+}
+td {
+  width: 100px;
+  height: 100px;
+  background-color: #42f5c2;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
